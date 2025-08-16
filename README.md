@@ -7,6 +7,7 @@ The solutions are organized into three main folders based on difficulty:
 * `easy/`
 * `medium/`
 * `hard/`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/812789e5-9052-47d0-93f1-44fa0cbf5e66" />
 
 Each file is named according to the **function name** of the problem (not the problem number).
 
